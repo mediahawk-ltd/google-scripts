@@ -6,7 +6,7 @@ Import yesterday's Mediahawk calls into Google Sheets
 
 1. Create a new Google Script
 2. Add [Code.gs](Code.gs)
-3. Set the config at the top of [Code.js](Code.gs)
+3. Set the config at the top of [Code.gs](Code.gs)
     * **USER** - Your Mediahawk API username, contact Mediahawk if you do not know this
     * **PASSWORD** - Your Mediahawk API password, contact Mediahawk if you do not know this
     * **SPREADSHEET_URL** - The full URL of the spreadsheet you want data inserted into, starting with “https” and ending with “/edit”
